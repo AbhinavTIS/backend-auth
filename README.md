@@ -7,7 +7,7 @@ This repository represents **Phase 1 – Project Setup & Authentication Foundati
 
 ---
 
-## 🚀 Features (Phase 1)
+##  Features (Phase 1)
 
 - Node.js project with TypeScript
 - Clean folder structure
@@ -21,7 +21,7 @@ This repository represents **Phase 1 – Project Setup & Authentication Foundati
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - Node.js
 - TypeScript
@@ -66,7 +66,7 @@ JWT_SECRET=your_jwt_secret
 
 ---
 
-## 📦 Installation & Running the Project
+##  Installation & Running the Project
 
 ### Install dependencies
 
@@ -92,7 +92,7 @@ http://localhost:3000
 
 ---
 
-## 🧪 API Endpoints
+##  API Endpoints
 
 ### Health Check
 
@@ -118,7 +118,7 @@ POST /api/auth/login
 
 ---
 
-## 🔐 Authentication Flow
+##  Authentication Flow
 
 1. User logs in with credentials
 2. Server verifies email and password
@@ -127,18 +127,14 @@ POST /api/auth/login
 
 ---
 
-## 📮 Postman Collection
+##  Postman Collection
 
 A Postman collection is provided to test the APIs.
 
 ---
 
-## 📌 Phase Status
+##  Phase Status
 
 **Phase 1 – Completed**
 
 ---
-
-## 👨‍💻 Author
-
-Abhinav Mahajan
